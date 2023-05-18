@@ -1,0 +1,13 @@
+h1
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+#btn
+{
+    border-radius: 5%;
+    background-color: lime;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-color: white;
+}
